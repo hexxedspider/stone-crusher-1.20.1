@@ -1,0 +1,10 @@
+{
+  "type": "stonecrusher:stone_crusher",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.1,
+  "ingredient": {
+    "tag": "stonecrusher:sand_sources"
+  },
+  "result": "minecraft:sand"
+}

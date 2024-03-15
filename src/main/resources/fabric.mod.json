@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "stonecrusher",
+	"version": "${version}",
+	"name": "Stone Crusher",
+	"description": "Craft a Stone Crusher to crush Cobblestone into Gravel and Gravel into Sand.",
+	"authors": [
+		"Blyrium"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/stone-crusher",
+		"sources": "https://github.com/Blyrium/stone-crusher-1.20.1"
+	},
+	"license": "MIT",
+	"icon": "assets/stonecrusher/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.blyrium.stonecrusher.StoneCrusher"
+		],
+		"client": [
+			"net.blyrium.stonecrusher.StoneCrusherClient"
+		],
+		"fabric-datagen": [
+			"net.blyrium.stonecrusher.StoneCrusherDataGenerator"
+		]
+	},
+	"mixins": [
+		"stonecrusher.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.3",
+		"minecraft": "<1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
