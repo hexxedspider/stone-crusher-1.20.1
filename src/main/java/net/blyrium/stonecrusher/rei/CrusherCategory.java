@@ -1,4 +1,4 @@
-package net.blyrium.stonecrusher.compat;
+package net.blyrium.stonecrusher.rei;
 
 import me.shedaniel.math.Point;
 import me.shedaniel.math.Rectangle;
@@ -19,7 +19,7 @@ import java.util.List;
 
 public class CrusherCategory implements DisplayCategory<BasicDisplay> {
     public static final Identifier TEXTURE =
-            new Identifier(StoneCrusher.MOD_ID, "textures/gui/crusher_small_gui.png");
+            new Identifier(StoneCrusher.MOD_ID, "textures/gui/crusher_small_gui_for_rei.png");
     public static final CategoryIdentifier<CrusherDisplay> CRUSHER =
             CategoryIdentifier.of(StoneCrusher.MOD_ID, "crusher");
 

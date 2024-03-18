@@ -1,4 +1,4 @@
-package net.blyrium.stonecrusher.compat;
+package net.blyrium.stonecrusher.rei;
 
 import me.shedaniel.rei.api.common.category.CategoryIdentifier;
 import me.shedaniel.rei.api.common.display.basic.BasicDisplay;

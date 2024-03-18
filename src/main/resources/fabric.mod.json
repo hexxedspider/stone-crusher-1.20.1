@@ -25,7 +25,7 @@
 			"net.blyrium.stonecrusher.StoneCrusherDataGenerator"
 		],
 		"rei_client": [
-			"net.blyrium.stonecrusher.compat.StoneCrusherREIClientPlugin"
+			"net.blyrium.stonecrusher.rei.StoneCrusherREIClientPlugin"
 		],
 		"emi": [
 			"net.blyrium.stonecrusher.emi.StoneCrusherEmiPlugin"

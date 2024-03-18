@@ -1,4 +1,4 @@
-package net.blyrium.stonecrusher.compat;
+package net.blyrium.stonecrusher.rei;
 
 import me.shedaniel.math.Rectangle;
 import me.shedaniel.rei.api.client.plugins.REIClientPlugin;
