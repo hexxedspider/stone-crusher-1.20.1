@@ -26,6 +26,9 @@
 		],
 		"rei_client": [
 			"net.blyrium.stonecrusher.compat.StoneCrusherREIClientPlugin"
+		],
+		"emi": [
+			"net.blyrium.stonecrusher.emi.StoneCrusherEmiPlugin"
 		]
 	},
 	"mixins": [
