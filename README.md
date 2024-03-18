@@ -23,14 +23,6 @@ The Stone Crusher is fast and energy efficient. Feeding it a single plank allows
 
 ### A few notes
 
-* REI support isn't a priority right now, but I'll get to it eventually.
+* If I'm brave enough, I'll try to add EMI support (REI is supported as of v1.1.0).
 
-
-<details>
-<summary>Spoiler</summary>
-
-I need to find a tutorial that actually covers 1.20.1 and **not** 1.20.2 first.
-
-</details>
-
-* This mod **will not work on 1.20.2 and above**. 1.20 and 1.20.1 and the only two supported versions. I will not update or backport this mod to a different version of Minecraft, but you're free to do so yourself if you wish.
+* This mod **will not work on 1.20.2 and above**. 1.20 and 1.20.1 are the only two supported versions. I will not update/backport this mod to a different version of Minecraft, but you're free to do so yourself if you wish.
