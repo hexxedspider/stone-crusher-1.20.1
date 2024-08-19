@@ -5,11 +5,11 @@
 	"name": "Stone Crusher",
 	"description": "Craft a Stone Crusher to crush Cobblestone into Gravel and Gravel into Sand.",
 	"authors": [
-		"Blyrium"
+		"Blyrium, hexxedspider"
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/stone-crusher",
-		"sources": "https://github.com/Blyrium/stone-crusher-1.20.1"
+		"sources": "https://github.com/hexxedspider/stone-crusher-1.20.1"
 	},
 	"license": "CC BY-NC 4.0",
 	"icon": "assets/stonecrusher/icon.png",
@@ -32,8 +32,8 @@
 		]
 	},
 	"depends": {
-		"fabricloader": ">=0.15.3",
-		"minecraft": "<1.20.2",
+		"fabricloader": ">=0.16.0",
+		"minecraft": "<1.21.1",
 		"java": ">=17",
 		"fabric-api": "*"
 	},
