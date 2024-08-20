@@ -6,12 +6,10 @@ The Stone Crusher is fast and energy efficient. Feeding it a single plank allows
 
 **Crafting recipe:**
 
-![Stone Crusher recipe](https://cdn.modrinth.com/data/taSdayp1/images/8859e68d484261982d8e4e4142cdcc12c2cf54a8.png)
-
-- 5 Deepslate stones (cobbled, bricks, tiles, etc. Whatever you have handy.)
+- 5 stones from the overworld (cobbled, bricks, tiles, etc. Whatever you have handy.)
 - 2 Stonecutters
 - 1 Blast Furnace
-- 1 Redstone Block
+- 1 Stone
 
 
 ### Credits & Acknowledgments
