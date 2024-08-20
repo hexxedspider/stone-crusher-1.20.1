@@ -8,7 +8,7 @@
   ],
   "key": {
     "#": {
-      "tag": "stonecrusher:deepslates"
+      "tag": "stonecrusher:overworld_stones"
     },
     "B": {
       "item": "minecraft:blast_furnace"
@@ -17,7 +17,7 @@
       "item": "minecraft:stonecutter"
     },
     "R": {
-      "item": "minecraft:redstone_block"
+      "item": "minecraft:stone"
     }
   },
   "result": {
