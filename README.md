@@ -28,7 +28,7 @@ The Stone Crusher is fast and energy efficient. Feeding it a single plank allows
 
 * JEI will not be supported.
 
-* This mod **will not (potentially) work on 1.20.2 and above**. 1.20 and 1.20.1 are the only two supported versions. I will not update/backport this mod to a different version of Minecraft, but you're free to do so yourself if you wish <-- spider tried.
+* This mod **will not (potentially) work on 1.20.2 and above**. 1.20 and 1.20.1 are the only two fully supported versions. I will not update/backport this mod to a different version of Minecraft, but you're free to do so yourself if you wish (as I am trying.)
 
 &nbsp;
 
