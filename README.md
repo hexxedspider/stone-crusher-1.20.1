@@ -20,7 +20,7 @@ The Stone Crusher is fast and energy efficient. Feeding it a single plank allows
 
 * Thanks to Kauperjoe for [his modding tutorials](https://www.youtube.com/watch?v=0Pr_iHlVKsI&list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ).
 
-* Thanks to Blyrium for the original mod, I just updated it to 1.21 for my own world.
+* Thanks to Blyrium for the original mod, I just updated it to 1.21. If I pull it off, then I can try to port it to other versions as well.
 
 ### A few notes
 
