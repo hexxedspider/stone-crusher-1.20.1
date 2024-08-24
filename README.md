@@ -1,3 +1,5 @@
+###I WILL UPDATE THIS README.md WHEN I GET IT TO WORK PROPERLY FOR ME
+
 # Stone Crusher
 
 The Stone Crusher is a new block used to turn Cobblestone (or any stone you may find in the Overworld) into Gravel. Use fuel to power it, and let it work! The Stone Crusher can also crush Gravel into Sand. No need to build a Sand duper anymore!
